@@ -19,14 +19,14 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'di4t0t5g+4ynji++$py=6rql89=-1kd%0i78kp!^*l-_8#2g!('
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://helloheroku59.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
