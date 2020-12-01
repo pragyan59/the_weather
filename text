@@ -1,0 +1,98 @@
+What is Proactivity:
+Proactivity is about predicting the needs of our customers and actively finding ways to help them before they even ask
+4 Proactivity success standards:
+1) Be prepared for every interaction:
+•	we should have some prior  knowledge before having the conversation 
+2) Anticipate the needs of your customer:
+, its about  anticipating the customer  question either with solution or alternatives, and be prepared before customer reach out to us. 
+3) Offer needs-based solution:
+Its about  identifying the customer need and providing the solution
+4)Continuously renew and retain relationship:
+In this we have to make sure, Once we have helped our customer  and they have  achieved what they wanted, our conversation shouldn’t stop there. It’s important to be in touch with customers even if we don’t have much requests.
+These success standards we need to apply within our workplace with some of the key techniques 
+Key techniques of Proactivity:
+Pre-emptive Strikes 
+-----In this we have to predict challenges and be prepared how to handle proactively.
+This will make us more confident and conversation can be focused on positives and solution
+ Homework Leakage Technique 
+---Before any interaction, we should gather additional information about the customer or the topic of discussion and be prepared for same
+
+SNAP
+ The Service Needs Analysis Profile
+---- This is a tool to support you in gathering qualitative feedback from your colleagues on the service you provided. Listening to your colleagues and acting on their feedback will help you to understand how your service is being perceived and how it can be improved. 
+So these are the details on success standards and key techniques of proactivity.
+
+
+
+
+
+
+
+Just to sum up proactivity-
+This is  a key core service behaviour because it describes the activity where we go above and beyond what the customer needs/wants .What we want to do is provide the customer with something that sits in their future.  something that we can see  before they can,   so that we deliver a first-class service for the customer
+
+Example: In our Team , we are supporting SAO  , which is one of our biggest consumer and using around 24 ESP services.
+With these many services, it would be difficult for anyone to test each service daily to confirm its availability in ESP environment.
+To tackle this  we have created  ESP Environment availability  dashboard in splunk.where we   have added all services used by SAO and other consumers to it, Now  we can just directly go to this dashboard and check the availability of the sevice.And if any issues, we try to fix it from our end, before consumer raises it .
+Based upon this dashboard , we also send Environment status report to our consumers and highlight whenever ESP is down or facing any other  issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teamwork:
+Now next moving on to Teamwork , the last core service behaviour
+Team work is the collaborative effort of a group to achieve a common goal in the most effective  and efficient way 
+we will discuss the common problems which were recognised, as hurdles to get an effective teamwork
+Example
+1)Silos (People working under One system/process/Department etc)
+people work within their silos and don’t work effectively with others to deliver the best outcomes.
+Success standard to overcome this:
+1)we should  actively promote working together and look for ways to collaborate and build networks with other teams
+Understand what other teams  can do to help your customers
+2)Competitiveness
+ Though competition is an important way to get continuous improvement 
+ but if applied in a negative way, then it can reduce the performance 
+Success standard to overcome this:
+2)Collaborate within the team to ensure a positive environment and high-performance culture
+3)Exceptionalism
+Sometimes people don’t give their best because they believe that the team will bail them out in 
+ some way. They therefore don’t give a valuable individual contribution.
+Success standard to overcome this:
+3)Make a valuable personal contribution to team’s success
+
+ Apart from these there could be many more other problems in the way of  effective  teamwork.
+We all need to recognise these hurdles and apply these success  standards  within our team and see how we can change things for the better.
+
+
+
+
+
+Key Techniques:
+•	Every day, think about what you can do  to improve your personal effectiveness. 
+•	Seek regular feedback, accept it positively and act on it quickly. 
+•	Share personal best practices with others and be open to those who  shared with you.
+•	 Accept responsibility for your behaviours and performance and own improvement actions that will lift them to the next level
+We can apply these things within our team to achieve the goal.
+When teamwork is right, great things can be achieved.
+And for bank to achieve its goals, all teams should work in this way.
+Example:
+Recently there was one migration activity for SV from TES server to Cloud server. This has an impact for all ESP services  for HTTP wrappers as the URL for PR/SV has been changed.
+And to achieve this goal, its needed the deployment for all ESP services/HTTP wrappers  in all S* and N* environments, else consumer testing  would have been impacted.
+We have multiple teams involved in this activity-MQ Team for new designs/token sheet update , Build Team for package, ESP env Team for deployment , SV Team for PR/SV setup and  Test Team for connectivity testing.
+Though it was not an easy task, considering around 50+ design and deployment, but with the help of each individual members we were able to achieve this successfully with minimal challenges.
+
+This is all  about Proactivity and Teamwork, their success standards and key techniques to be used.
+Now we will be dividing all participants into breakout groups, so that you can discuss the live examples for these core service behaviours.
