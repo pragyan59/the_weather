@@ -23,11 +23,6 @@ SNAP
 So these are the details on success standards and key techniques of proactivity.
 
 
-
-
-
-
-
 Just to sum up proactivity-
 This is  a key core service behaviour because it describes the activity where we go above and beyond what the customer needs/wants .What we want to do is provide the customer with something that sits in their future.  something that we can see  before they can,   so that we deliver a first-class service for the customer
 
@@ -35,22 +30,6 @@ Example: In our Team , we are supporting SAO  , which is one of our biggest cons
 With these many services, it would be difficult for anyone to test each service daily to confirm its availability in ESP environment.
 To tackle this  we have created  ESP Environment availability  dashboard in splunk.where we   have added all services used by SAO and other consumers to it, Now  we can just directly go to this dashboard and check the availability of the sevice.And if any issues, we try to fix it from our end, before consumer raises it .
 Based upon this dashboard , we also send Environment status report to our consumers and highlight whenever ESP is down or facing any other  issues
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Teamwork:
 Now next moving on to Teamwork , the last core service behaviour
@@ -75,10 +54,6 @@ Success standard to overcome this:
 
  Apart from these there could be many more other problems in the way of  effective  teamwork.
 We all need to recognise these hurdles and apply these success  standards  within our team and see how we can change things for the better.
-
-
-
-
 
 Key Techniques:
 •	Every day, think about what you can do  to improve your personal effectiveness. 
